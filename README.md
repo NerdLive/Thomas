@@ -25,6 +25,6 @@ Hi ich bin Thomas und ich arbeite aktuell im Energiesektor. Bereich digitaler Ve
 - On- und Offline-Kommunikation
 - Mehr? Finde es heraus!
 
-> Lasst uns gerne in Kontakt bleiben **[LinkedIn](https://www.linkedin.com/in/thomas-classen//)**
+> Lasst uns gerne in Kontakt bleiben **[LinkedIn](https://www.linkedin.com/in/thomas-classen/)**
 
 
