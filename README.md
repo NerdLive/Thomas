@@ -16,16 +16,14 @@ Hi ich bin Thomas und ich arbeite aktuell im Energiesektor. Bereich digitaler Ve
 
 ## Tech-Stack
 
-- Projektmanager & Projektleitung
-- Kampagnenplanung
-- Mitarbeiterführung
+- Projektleitung / Product Owner
+- Kampagnenplanung & digitalter Vertrieb von Commodity Produkten
+- Software-Weiterentwicklung
 - Content Optimierung und SEO
 - Agiles Projektmanagement mit Scrum und Jira
 - Anforderungsmanagement
 - On- und Offline-Kommunikation
-- Mehr? Finde es gerne heraus :-)
-
-
+- Mehr? Finde es heraus!
 
 > Lasst uns gerne in Kontakt bleiben **[LinkedIn](https://www.linkedin.com/in/thomas-classen//)**
 
