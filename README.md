@@ -11,7 +11,7 @@ Hi ich bin Thomas und ich arbeite aktuell im Energiesektor. Bereich digitaler Ve
 - Dazu stellte ich ein interdisziplinäres Team aus internen und externen Expert:innen zusammen. Wir entwickelten neue Schnittstellen, überarbeiteten bestehendes vollständig, optimierten die User Experience (UX) und das User Interface (UI) grundlegend und machten unsere ERP-Systeme fit für ein Headless-CMS-Setup.
 - Meine zentrale Rolle bestand darin, alle Stakeholder zu vereinen, Dienstleister zu koordinieren, Drittsysteme zu modernisieren und die verschiedenen Konzepte zu einer gemeinsamen digitalen Vision zusammenzuführen.
 -  - Nach dem erfolgreichen Relaunch ist die Arbeit nicht abgeschlossen: Ich treibe kontinuierlich die digitale Weiterentwicklung voran, baue unseren Online-Vertrieb aus und koordiniere die Zusammenarbeit der einzelnen Units. Aktuell liegt ein besonderer Fokus auf der App-Entwicklung und der Integration mobiler Lösungen.
--  Vor meiner Zeit bei der NEW AG betreute ich über zwölf Jahre lang nationale und internationale Kunden in den Bereichen Print-Kommunikation und Online-Projektmanagement sowie in der Frontend-Entwicklung (HTML, ActionScript). In den darauffolgenden acht Jahren lag mein Schwerpunkt auf Online-Konzeption, Projektleitung, Product Ownership, Conversion-Optimierung und SEO.
+-  Vor meiner Zeit bei der NEW AG betreute ich über zwölf Jahre lang nationale und internationale Kunden in den Bereichen Print-Kommunikation und Online-Projektmanagement sowie in der Frontend-Entwicklung (HTML, ActionScript). In den darauffolgenden acht Jahren lag mein Schwerpunkt auf Online-Konzeption, Projektleitung, Product Ownership, Conversion-Optimierung, IT-Support und SEO.
 
 
 ## Tech-Stack
