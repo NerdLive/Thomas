@@ -22,6 +22,7 @@ Hi ich bin Thomas und ich arbeite aktuell im Energiesektor. Bereich digitaler Ve
 - Content Optimierung und SEO
 - Agiles Projektmanagement mit Scrum und Jira
 - Anforderungsmanagement
+- AI-Automatisierung
 - On- und Offline-Kommunikation
 - Mehr? Finde es heraus!
 
